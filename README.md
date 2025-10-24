@@ -4,11 +4,12 @@
 ---
 
 <p align="center">
-  <img src="https://media.tenor.com/Gw2wU1q-CY4AAAAd/meme.gif" width="450"/>
+<img src="./assets/penguin-clean.gif" width="400" alt="Penguin Cleaning"/>
+<br>
+<em>“Penguin in charge of sweeping my spaghetti code 🐧🧹”</em>
 </p>
 
-<h1 align="center">⚔️ Debugging Boss Level Active ⚔️</h1>
-<h3 align="center">If it compiles → SHIP IT 🛸</h3>
+<h3 align="center">If it compiles → Let the penguin sweep 🐧🧹</h3>
 
 ---
 
@@ -72,7 +73,7 @@
 | 🐧 Linux Mastery | ████████░░░ 70% |
 | 🔐 Cybersecurity | ████░░░░░░░ 40% |
 
-> Progress increases with **monster & frustration** ☕🔥
+> Progress increases with **monster & frustration** 🔋🔥
 
 ---
 
