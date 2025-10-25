@@ -1,5 +1,5 @@
 <h1 align="center">💻 Jeims Vélez — Full Stack Developer</h1>
-<h3 align="center">Cybersecurity Enthusiast • Linux Power User • Coffee-Based Lifeform</h3>
+<h3 align="center">Cybersecurity Enthusiast • Linux Power User • Energizing-Based Lifeform</h3>
 
 ---
 
