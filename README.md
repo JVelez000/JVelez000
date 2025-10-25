@@ -61,22 +61,6 @@
 <img src="https://img.shields.io/badge/NeoVim-47A248?style=for-the-badge&logo=neovim&logoColor=white"/>
 </p>
 
----
-
-## 🧪 Skill XP Bars (Progressing)
-
-| Skill | Level |
-|-------|------|
-| 🟣 C# / ASP.NET | ███████░░░░ 60% |
-| 🟡 Python | █████░░░░░░ 40% |
-| ⚡ JavaScript | ██████░░░░░ 60% |
-| 🐧 Linux Mastery | ████████░░░ 70% |
-| 🔐 Cybersecurity | ████░░░░░░░ 40% |
-
-> Progress increases with **monster & frustration** 🔋🔥
-
----
-
 ## 🗣️ Languages
 
 | Language | Level |
