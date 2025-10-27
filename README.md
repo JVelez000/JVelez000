@@ -49,9 +49,9 @@
 ### 🐧 Operating Systems & WM
 <p align="left">
 <img src="https://skillicons.dev/icons?i=arch,linux" height="50"/>
+<img src="https://skillicons.dev/icons?i=kali" height="50"/>
 <img src="https://img.shields.io/badge/Hyprland-00A6FF?style=for-the-badge&logo=hyprland&logoColor=white"/>
 <img src="https://img.shields.io/badge/i3wm-2D2D2D?style=for-the-badge&logo=i3&logoColor=white"/>
-<img src="https://skillicons.dev/icons?i=kali" height="50"/>
 </p>
 
 ### 📦 Tools & Workflow
