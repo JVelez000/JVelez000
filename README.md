@@ -61,6 +61,8 @@
 <img src="https://img.shields.io/badge/NeoVim-47A248?style=for-the-badge&logo=neovim&logoColor=white"/>
 </p>
 
+---
+
 ## 🗣️ Languages
 
 | Language | Level |
@@ -68,14 +70,6 @@
 | 🇪🇸 Spanish | Native |
 | 🇺🇸 English | B2 |
 | 🇸🇪 Swedish | A1 (*Learning how to order IKEA meatballs*) |
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=JVelez000&theme=matrix&no-frame=true&row=1&column=6"/>
-</p>
 
 ---
 
