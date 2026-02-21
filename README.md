@@ -43,7 +43,7 @@
 
 ### 🛠️ Languages & Frameworks
 <p align="left">
-<img src="https://skillicons.dev/icons?i=cs,dotnet,python,js,html,css" height="50"/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,python,js,html,css,kotlin" height="50"/>
 </p>
 
 ### 🐧 Operating Systems & WM
@@ -70,20 +70,6 @@
 | 🇪🇸 Spanish | Native |
 | 🇺🇸 English | B2 |
 | 🇸🇪 Swedish | A1 (*Learning how to order IKEA meatballs*) |
-
----
-
-## 📈 Stats — Because numbers look cool
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=JVelez000&theme=tokyonight&hide_border=true" height="200"/>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api?username=JVelez000&show_icons=true&theme=tokyonight&hide_border=true" height="200"/>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVelez000&layout=compact&theme=tokyonight&hide_border=true" height="200"/>
-
-</div>
 
 ---
 
