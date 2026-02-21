@@ -1,5 +1,5 @@
 <h1 align="center">💻 Jeims Vélez — Full Stack Developer</h1>
-<h3 align="center">Cybersecurity Enthusiast • Linux Power User • Energizing-Based Lifeform</h3>
+<h3 align="center">Offensive Security Enthusiast • Linux Power User • Energizing-Based Lifeform</h3>
 
 ---
 
@@ -29,16 +29,17 @@
 
 - 🇨🇴 Medellín, Colombia  
 - 🧠 Full Stack → **C#, ASP.NET, Python**  
-- 🛡️ Learning **Ethical Hacking, Pentesting & Cybersecurity**  
+- 🛡️ Focused on **Ethical Hacking, Pentesting & Offensive Security**  
+- 🧪 Building and breaking things in controlled environments  
 - 🐧 Arch Linux + Hyprland + i3 → my happy place  
-- 🖤 Exploring BlackArch tools & offensive security environments  
+- 🖤 Exploring BlackArch tooling & offensive security workflows  
 - 🖥️ Terminal enjoyer → Bash scripting & automation  
 - 🔋 Monster → productivity upgrade  
 - 💀 “I break things… for educational purposes 👀”
 
-> “Currently debugging my life and my code simultaneously.”  
+> “Currently debugging my life, my code, and misconfigured servers.”  
 > “Arch user btw.”  
-> “If it works → don’t touch it. If it breaks → blame Windows.”  
+> “If it works → enumerate it. If it breaks → exploit it.”  
 
 ---
 
@@ -51,7 +52,7 @@
 
 ---
 
-### 🐧 Operating Systems & WM
+### 🐧 Operating Systems & Offensive Environments
 <p align="left">
 <img src="https://skillicons.dev/icons?i=arch,linux,kali" height="50"/>
 <img src="https://img.shields.io/badge/BlackArch-000000?style=for-the-badge&logo=archlinux&logoColor=white"/>
@@ -70,15 +71,26 @@
 
 ---
 
+## 🎯 Offensive Security Focus
+
+- Web Application Testing (OWASP Top 10 mindset)
+- Basic Enumeration & Recon Methodologies
+- Linux Privilege Escalation fundamentals
+- Bash & Python scripting for automation
+- Learning exploitation chains step by step
+
+---
+
 ## 📚 Currently Learning
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=kotlin,dart,flutter" height="50"/>
 </p>
 
-- Ethical Hacking & Pentesting  
-- Offensive Security tooling (BlackArch environment)  
-- Cybersecurity fundamentals & real-world attack vectors  
+- Ethical Hacking & Pentesting
+- Offensive tooling inside BlackArch
+- Cybersecurity fundamentals & attack surfaces
+- Secure coding practices for backend systems
 
 ---
 
@@ -88,22 +100,7 @@
 |---------|-------|
 | 🇪🇸 Spanish | Native |
 | 🇺🇸 English | B2 |
-| 🇸🇪 Swedish | A1 (*Learning how to order IKEA meatballs*) |
-
----
-
-## 🏥 Highlighted Project
-
-### 🚑 Hospital Performance Testing — C# + ASP.NET  
-🔗 Repo: https://github.com/JVelez000/PruebaHospital  
-
-⚙️ Full CRUD · SQL Optimization · Performance Hunting
-
-> I only break databases, not real hospitals… I think.  
-> “It compiled yesterday, I swear.”  
-
-More projects loading… ⏳  
-(please wait while I panic in the background)
+| 🇸🇪 Swedish | A1 (*Still learning how to order IKEA meatballs properly*) |
 
 ---
 
@@ -126,6 +123,6 @@ More projects loading… ⏳
 ---
 
 <p align="center">
-✨ Thanks for scrolling — now go star a repo ⭐  
-Or my Penguin will cry 😢🐧
+✨ Thanks for scrolling — now go audit something responsibly 🔍  
+Or my Linux will cry 😢🐧
 </p>
