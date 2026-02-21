@@ -4,12 +4,12 @@
 ---
 
 <p align="center">
-<img src="./assets/penguin-clean.gif" width="400" alt="Penguin Cleaning"/>
-<br>
-<em>“Penguin in charge of sweeping my spaghetti code 🐧🧹”</em>
+<img src="https://media.tenor.com/3bTxZqKzQXgAAAAC/hacker-ascii-ascii-art-saas-security-cyber-security.gif" width="500"/>
 </p>
 
-<h3 align="center">If it compiles → Let the penguin sweep 🐧🧹</h3>
+<h3 align="center">
+⚫ “In a world full of vulnerabilities, be the one who finds them first.”
+</h3>
 
 ---
 
@@ -30,9 +30,9 @@
 - 🇨🇴 Medellín, Colombia  
 - 🧠 Full Stack → **C#, ASP.NET, Python**  
 - 🛡️ Focused on **Ethical Hacking, Pentesting & Offensive Security**  
-- 🧪 Building and breaking things in controlled environments  
+- 🧪 Building and breaking systems in controlled lab environments  
 - 🐧 Arch Linux + Hyprland + i3 → my happy place  
-- 🖤 Exploring BlackArch tooling & offensive security workflows  
+- ⚫ BlackArch user → offensive tooling & experimentation  
 - 🖥️ Terminal enjoyer → Bash scripting & automation  
 - 🔋 Monster → productivity upgrade  
 - 💀 “I break things… for educational purposes 👀”
@@ -73,11 +73,11 @@
 
 ## 🎯 Offensive Security Focus
 
-- Web Application Testing (OWASP Top 10 mindset)
-- Basic Enumeration & Recon Methodologies
-- Linux Privilege Escalation fundamentals
-- Bash & Python scripting for automation
-- Learning exploitation chains step by step
+- Web Application Testing (OWASP Top 10 mindset)  
+- Enumeration & Recon Methodologies  
+- Linux Privilege Escalation fundamentals  
+- Bash & Python scripting for automation  
+- Understanding attack surfaces & misconfigurations  
 
 ---
 
@@ -87,10 +87,10 @@
 <img src="https://skillicons.dev/icons?i=kotlin,dart,flutter" height="50"/>
 </p>
 
-- Ethical Hacking & Pentesting
-- Offensive tooling inside BlackArch
-- Cybersecurity fundamentals & attack surfaces
-- Secure coding practices for backend systems
+- Ethical Hacking & Pentesting  
+- Advanced usage of BlackArch offensive toolsets  
+- Cybersecurity fundamentals & real-world attack scenarios  
+- Secure backend development practices  
 
 ---
 
@@ -123,6 +123,5 @@
 ---
 
 <p align="center">
-✨ Thanks for scrolling — now go audit something responsibly 🔍  
-Or my Linux will cry 😢🐧
+⚫ Stay curious. Enumerate everything. Exploit responsibly.  
 </p>
