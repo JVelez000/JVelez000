@@ -1,5 +1,5 @@
-<h1 align="center">💻 Jeims Vélez — Full Stack Developer</h1>
-<h3 align="center">Offensive Security Enthusiast • Linux Power User • Energizing-Based Lifeform</h3>
+<h1 align="center">💻 Jeims Vélez — Backend Developer • Offensive Security</h1>
+<h3 align="center">Secure Systems Builder • Linux Power User • Arch / BlackArch Enthusiast</h3>
 
 ---
 
@@ -30,22 +30,29 @@
 ---
 
 ```bash
-$ whoami
+┌──(jeims㉿blackarch-lab)-[~/profile]
+└─$ whoami
 jeimsvelez
 
-$ hostname
+┌──(jeims㉿blackarch-lab)-[~/profile]
+└─$ hostname
 blackarch-lab
 
-$ echo $ROLE
-Full Stack Developer / Offensive Security Student
+┌──(jeims㉿blackarch-lab)-[~/profile]
+└─$ echo $ROLE
+Backend Developer / Offensive Security
 ```
 
 ---
 
-## 🧑‍💻 About Me
+# 🧑‍💻 About Me
+
+```bash
+$ cat about_me.txt
+```
 
 - 🇨🇴 Medellín, Colombia  
-- 🧠 Full Stack → **C#, ASP.NET, Python**  
+- 🧠 Backend → **C#, ASP.NET, Python**  
 - 🛡️ Focused on **Ethical Hacking, Pentesting & Offensive Security**  
 - 🧪 Building and breaking systems in controlled lab environments  
 - 🐧 Arch Linux + Hyprland + i3 → my happy place  
@@ -56,39 +63,26 @@ Full Stack Developer / Offensive Security Student
 
 > “Currently debugging my life, my code, and misconfigured servers.”  
 > “Arch user btw.”  
-> “If it works → enumerate it. If it breaks → exploit it.”    
+> “If it works → enumerate it. If it breaks → exploit it.”
 
 ---
 
-## 🚀 Tech Arsenal
+# 🏗️ Backend Engineering Mindset
 
-### 🛠️ Languages & Frameworks
-<p align="left">
-<img src="https://skillicons.dev/icons?i=cs,dotnet,python,js,html,css,bash" height="50"/>
-</p>
+```bash
+$ backend --principles
+```
 
----
-
-### 🐧 Operating Systems & Offensive Environments
-<p align="left">
-<img src="https://skillicons.dev/icons?i=arch,linux,kali" height="50"/>
-<img src="https://img.shields.io/badge/BlackArch-000000?style=for-the-badge&logo=archlinux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hyprland-00A6FF?style=for-the-badge&logo=hyprland&logoColor=white"/>
-<img src="https://img.shields.io/badge/i3wm-2D2D2D?style=for-the-badge&logo=i3&logoColor=white"/>
-</p>
+- Secure by design > Patch later  
+- Authentication & Authorization first  
+- Validate everything. Trust nothing.  
+- Logs are evidence.  
+- Performance matters. Security matters more.  
+- Code should compile. Exploits should not.
 
 ---
 
-### 📦 Tools & Workflow
-<p align="left">
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,androidstudio" height="50"/>
-<img src="https://img.shields.io/badge/Rider-C%23%20IDE-000?style=for-the-badge&logo=rider&logoColor=white"/>
-<img src="https://img.shields.io/badge/NeoVim-47A248?style=for-the-badge&logo=neovim&logoColor=white"/>
-</p>
-
----
-
-## 🎯 Offensive Security Focus
+# 🛡️ Offensive Security Focus
 
 ```bash
 $ cat offensive_focus.txt
@@ -100,10 +94,42 @@ $ cat offensive_focus.txt
 - Bash & Python scripting for automation  
 - Understanding attack surfaces & misconfigurations  
 - Secure coding mindset in backend development  
+- Thinking like an attacker to build like a defender  
 
 ---
 
-## 📚 Currently Learning
+# 🚀 Tech Arsenal
+
+## 🛠️ Languages & Frameworks
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=cs,dotnet,python,js,html,css,bash" height="50"/>
+</p>
+
+---
+
+## 🐧 Operating Systems & Offensive Environments
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=arch,linux,kali" height="50"/>
+<img src="https://img.shields.io/badge/BlackArch-000000?style=for-the-badge&logo=archlinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hyprland-00A6FF?style=for-the-badge&logo=hyprland&logoColor=white"/>
+<img src="https://img.shields.io/badge/i3wm-2D2D2D?style=for-the-badge&logo=i3&logoColor=white"/>
+</p>
+
+---
+
+## 📦 Tools & Workflow
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,androidstudio" height="50"/>
+<img src="https://img.shields.io/badge/Rider-C%23%20IDE-000?style=for-the-badge&logo=rider&logoColor=white"/>
+<img src="https://img.shields.io/badge/NeoVim-47A248?style=for-the-badge&logo=neovim&logoColor=white"/>
+</p>
+
+---
+
+# 📚 Currently Learning
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=kotlin,dart,flutter" height="50"/>
@@ -120,36 +146,46 @@ $ learning --status
 
 ---
 
-## 🗣️ Languages
+# 🗣️ Languages
 
 | Language | Level |
-|---------|-------|
+|----------|--------|
 | 🇪🇸 Spanish | Native |
 | 🇺🇸 English | B2 |
 | 🇸🇪 Swedish | A1 (*Still learning how to order IKEA meatballs properly*) |
 
 ---
 
-## 🎓 Education & Certs
+# 🎓 Education & Certs
 
 | Certification / Degree | Institution |
-|----------------------|-------------|
+|------------------------|-------------|
 | Ethical Hacking & Basic Cybersecurity | Hacker Mentor |
 | Systems Technician | SENA |
 | High School Graduate | IECOMI |
 
 ---
 
-## 📬 Contact Me
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=JVelez000&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVelez000&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📬 Contact Me
 
 📧 **jvelez.d3v@gmail.com**  
 🎧 Discord: **jvelez00**  
-🐙 GitHub: **@JVelez000**  
+🐙 GitHub: **@JVelez000**
 
 ---
 
 ```bash
-$ sudo shutdown -h curiosity
+┌──(jeims㉿blackarch-lab)-[~/curiosity]
+└─$ sudo shutdown -h curiosity
 [sudo] password for jeims:
 Access denied.
 Curiosity cannot be stopped.
