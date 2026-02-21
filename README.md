@@ -4,15 +4,14 @@
 ---
 
 <p align="center">
-<img src="https://media.tenor.com/3bTxZqKzQXgAAAAC/hacker-ascii-ascii-art-saas-security-cyber-security.gif" width="500"/>
+<img src="assets/hacker-ascii.gif" width="500"/>
 </p>
 
 <h3 align="center">
 ⚫ “In a world full of vulnerabilities, be the one who finds them first.”
 </h3>
 
-<p align="center">
-⚫ “Talk is cheap. Show me the code.” — Linus Torvalds  
+<p align="center">  
 ⚫ “Software is like sex: it's better when it's free.” — Linus Torvalds  
 </p>
 
@@ -57,8 +56,7 @@ Full Stack Developer / Offensive Security Student
 
 > “Currently debugging my life, my code, and misconfigured servers.”  
 > “Arch user btw.”  
-> “If it works → enumerate it. If it breaks → exploit it.”  
-> “Given enough eyeballs, all bugs are shallow.” — Linus Torvalds  
+> “If it works → enumerate it. If it breaks → exploit it.”    
 
 ---
 
