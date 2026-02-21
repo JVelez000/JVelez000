@@ -166,15 +166,6 @@ $ learning --status
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=JVelez000&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVelez000&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 # 📬 Contact Me
 
 📧 **jvelez.d3v@gmail.com**  
