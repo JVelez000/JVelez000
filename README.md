@@ -11,6 +11,11 @@
 ⚫ “In a world full of vulnerabilities, be the one who finds them first.”
 </h3>
 
+<p align="center">
+⚫ “Talk is cheap. Show me the code.” — Linus Torvalds  
+⚫ “Software is like sex: it's better when it's free.” — Linus Torvalds  
+</p>
+
 ---
 
 <div align="center">
@@ -22,6 +27,19 @@
 ![Hacking](https://img.shields.io/badge/Hacking-Practicing-darkgreen?style=for-the-badge&logo=matrix)
 
 </div>
+
+---
+
+```bash
+$ whoami
+jeimsvelez
+
+$ hostname
+blackarch-lab
+
+$ echo $ROLE
+Full Stack Developer / Offensive Security Student
+```
 
 ---
 
@@ -40,6 +58,7 @@
 > “Currently debugging my life, my code, and misconfigured servers.”  
 > “Arch user btw.”  
 > “If it works → enumerate it. If it breaks → exploit it.”  
+> “Given enough eyeballs, all bugs are shallow.” — Linus Torvalds  
 
 ---
 
@@ -73,11 +92,16 @@
 
 ## 🎯 Offensive Security Focus
 
+```bash
+$ cat offensive_focus.txt
+```
+
 - Web Application Testing (OWASP Top 10 mindset)  
 - Enumeration & Recon Methodologies  
 - Linux Privilege Escalation fundamentals  
 - Bash & Python scripting for automation  
 - Understanding attack surfaces & misconfigurations  
+- Secure coding mindset in backend development  
 
 ---
 
@@ -86,6 +110,10 @@
 <p align="left">
 <img src="https://skillicons.dev/icons?i=kotlin,dart,flutter" height="50"/>
 </p>
+
+```bash
+$ learning --status
+```
 
 - Ethical Hacking & Pentesting  
 - Advanced usage of BlackArch offensive toolsets  
@@ -122,6 +150,14 @@
 
 ---
 
+```bash
+$ sudo shutdown -h curiosity
+[sudo] password for jeims:
+Access denied.
+Curiosity cannot be stopped.
+```
+
 <p align="center">
 ⚫ Stay curious. Enumerate everything. Exploit responsibly.  
+⚫ Powered by caffeine, Bash, and questionable life decisions.
 </p>
