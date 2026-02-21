@@ -43,7 +43,7 @@
 
 ### 🛠️ Languages & Frameworks
 <p align="left">
-<img src="https://skillicons.dev/icons?i=cs,dotnet,python,js,html,css,kotlin" height="50"/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,python,js,html,css,kotlin,dart,flutter" height="50"/>
 </p>
 
 ### 🐧 Operating Systems & WM
