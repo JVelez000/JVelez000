@@ -114,7 +114,7 @@ More projects loading… ⏳
 
 ## 📬 Contact Me
 
-📧 **jeims1221jeims@gmail.com**  
+📧 **jvelez.d3v@gmail.com**  
 🎧 Discord: **jvelez00**  
 🐙 GitHub: **@JVelez000**  
 
