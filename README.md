@@ -17,6 +17,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=JVelez000&color=blueviolet&style=for-the-badge)
 ![Arch](https://img.shields.io/badge/Arch-User-bf00ff?style=for-the-badge&logo=archlinux&logoColor=white)
+![BlackArch](https://img.shields.io/badge/BlackArch-User-000000?style=for-the-badge&logo=archlinux&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali-Linux-0054ff?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Hacking](https://img.shields.io/badge/Hacking-Practicing-darkgreen?style=for-the-badge&logo=matrix)
 
@@ -28,10 +29,12 @@
 
 - 🇨🇴 Medellín, Colombia  
 - 🧠 Full Stack → **C#, ASP.NET, Python**  
-- 🛡️ Cybersecurity *Padawan*  
+- 🛡️ Learning **Ethical Hacking, Pentesting & Cybersecurity**  
 - 🐧 Arch Linux + Hyprland + i3 → my happy place  
+- 🖤 Exploring BlackArch tools & offensive security environments  
+- 🖥️ Terminal enjoyer → Bash scripting & automation  
 - 🔋 Monster → productivity upgrade  
-- 💀 “I break things… **educational purporses** 👀”
+- 💀 “I break things… for educational purposes 👀”
 
 > “Currently debugging my life and my code simultaneously.”  
 > “Arch user btw.”  
@@ -43,23 +46,39 @@
 
 ### 🛠️ Languages & Frameworks
 <p align="left">
-<img src="https://skillicons.dev/icons?i=cs,dotnet,python,js,html,css,kotlin,dart,flutter" height="50"/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,python,js,html,css,bash" height="50"/>
 </p>
+
+---
 
 ### 🐧 Operating Systems & WM
 <p align="left">
-<img src="https://skillicons.dev/icons?i=arch,linux" height="50"/>
-<img src="https://skillicons.dev/icons?i=kali" height="50"/>
+<img src="https://skillicons.dev/icons?i=arch,linux,kali" height="50"/>
+<img src="https://img.shields.io/badge/BlackArch-000000?style=for-the-badge&logo=archlinux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hyprland-00A6FF?style=for-the-badge&logo=hyprland&logoColor=white"/>
 <img src="https://img.shields.io/badge/i3wm-2D2D2D?style=for-the-badge&logo=i3&logoColor=white"/>
 </p>
 
+---
+
 ### 📦 Tools & Workflow
 <p align="left">
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode" height="50"/>
-<img src="https://img.shields.io/badge/Rider-000?style=for-the-badge&logo=rider&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,androidstudio" height="50"/>
+<img src="https://img.shields.io/badge/Rider-C%23%20IDE-000?style=for-the-badge&logo=rider&logoColor=white"/>
 <img src="https://img.shields.io/badge/NeoVim-47A248?style=for-the-badge&logo=neovim&logoColor=white"/>
 </p>
+
+---
+
+## 📚 Currently Learning
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=kotlin,dart,flutter" height="50"/>
+</p>
+
+- Ethical Hacking & Pentesting  
+- Offensive Security tooling (BlackArch environment)  
+- Cybersecurity fundamentals & real-world attack vectors  
 
 ---
 
@@ -80,7 +99,7 @@
 
 ⚙️ Full CRUD · SQL Optimization · Performance Hunting
 
-> I only break **databases**, not real hospitals… I think.  
+> I only break databases, not real hospitals… I think.  
 > “It compiled yesterday, I swear.”  
 
 More projects loading… ⏳  
@@ -108,5 +127,5 @@ More projects loading… ⏳
 
 <p align="center">
 ✨ Thanks for scrolling — now go star a repo ⭐  
-Or my Linux will cry 😢🐧
+Or my Penguin will cry 😢🐧
 </p>
